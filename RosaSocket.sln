@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RosaSocket", "RosaSocket\RosaSocket.vcxproj", "{84A7194E-B09E-4819-AB68-FA7F71F0820E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Debug|x64.ActiveCfg = Debug|x64
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Debug|x64.Build.0 = Debug|x64
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Debug|x86.ActiveCfg = Debug|Win32
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Debug|x86.Build.0 = Debug|Win32
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Release|x64.ActiveCfg = Release|x64
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Release|x64.Build.0 = Release|x64
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Release|x86.ActiveCfg = Release|Win32
+		{84A7194E-B09E-4819-AB68-FA7F71F0820E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1123A6DB-1863-4270-B4FB-72AF61C70FF6}
+	EndGlobalSection
+EndGlobal
